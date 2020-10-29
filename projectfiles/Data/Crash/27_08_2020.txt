@@ -1,0 +1,102 @@
+15_11_15[WinError 10054] An existing connection was forcibly closed by the remote host
+15_11_15[WinError 10054] An existing connection was forcibly closed by the remote host
+15_24_16[WinError 10061] No connection could be made because the target machine actively refused it
+15_24_18[WinError 10061] No connection could be made because the target machine actively refused it
+15_24_21[WinError 10061] No connection could be made because the target machine actively refused it
+15_51_45[WinError 10061] No connection could be made because the target machine actively refused it
+15_51_47[WinError 10061] No connection could be made because the target machine actively refused it
+15_51_50[WinError 10061] No connection could be made because the target machine actively refused it
+19_41_48[WinError 10061] No connection could be made because the target machine actively refused it
+19_42_05[WinError 10061] No connection could be made because the target machine actively refused it
+19_42_45[WinError 10061] No connection could be made because the target machine actively refused it
+19_47_24[WinError 10061] No connection could be made because the target machine actively refused it
+20_04_34[WinError 10049] The requested address is not valid in its context
+20_04_34[WinError 10049] The requested address is not valid in its context
+20_05_14[WinError 10061] No connection could be made because the target machine actively refused it
+20_05_14[WinError 10049] The requested address is not valid in its context
+20_05_14[WinError 10049] The requested address is not valid in its context
+20_08_57[WinError 10061] No connection could be made because the target machine actively refused it
+20_08_57[WinError 10049] The requested address is not valid in its context
+20_08_57[WinError 10049] The requested address is not valid in its context
+20_09_00[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_02[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_05[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_19[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_19[WinError 10049] The requested address is not valid in its context
+20_09_19[WinError 10049] The requested address is not valid in its context
+20_09_21[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_21[WinError 10049] The requested address is not valid in its context
+20_09_21[WinError 10049] The requested address is not valid in its context
+20_09_23[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_25[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_28[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_31[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_34[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_37[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_40[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_43[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_47[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_50[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_53[WinError 10061] No connection could be made because the target machine actively refused it
+20_09_56[WinError 10061] No connection could be made because the target machine actively refused it
+20_10_03[WinError 10061] No connection could be made because the target machine actively refused it
+20_10_03[WinError 10049] The requested address is not valid in its context
+20_10_03[WinError 10049] The requested address is not valid in its context
+20_10_07[WinError 10061] No connection could be made because the target machine actively refused it
+20_10_09[WinError 10061] No connection could be made because the target machine actively refused it
+20_10_12[WinError 10061] No connection could be made because the target machine actively refused it
+20_12_19[WinError 10061] No connection could be made because the target machine actively refused it
+20_12_19[WinError 10049] The requested address is not valid in its context
+20_12_19[WinError 10049] The requested address is not valid in its context
+20_12_23[WinError 10061] No connection could be made because the target machine actively refused it
+20_12_25[WinError 10061] No connection could be made because the target machine actively refused it
+20_13_25[WinError 10061] No connection could be made because the target machine actively refused it
+20_13_25[WinError 10049] The requested address is not valid in its context
+20_13_25[WinError 10049] The requested address is not valid in its context
+20_14_05[WinError 10061] No connection could be made because the target machine actively refused it
+20_14_05[WinError 10049] The requested address is not valid in its context
+20_14_05[WinError 10049] The requested address is not valid in its context
+20_14_14[WinError 10061] No connection could be made because the target machine actively refused it
+20_14_14[WinError 10049] The requested address is not valid in its context
+20_14_14[WinError 10049] The requested address is not valid in its context
+20_14_30[WinError 10061] No connection could be made because the target machine actively refused it
+20_14_30[WinError 10049] The requested address is not valid in its context
+20_14_30[WinError 10049] The requested address is not valid in its context
+20_14_37[WinError 10061] No connection could be made because the target machine actively refused it
+20_14_37[WinError 10049] The requested address is not valid in its context
+20_14_37[WinError 10049] The requested address is not valid in its context
+20_16_05[WinError 10061] No connection could be made because the target machine actively refused it
+20_16_05[WinError 10049] The requested address is not valid in its context
+20_16_05[WinError 10049] The requested address is not valid in its context
+20_16_58[WinError 10061] No connection could be made because the target machine actively refused it
+20_16_58[WinError 10049] The requested address is not valid in its context
+20_16_58[WinError 10049] The requested address is not valid in its context
+20_17_06[WinError 10061] No connection could be made because the target machine actively refused it
+20_17_06[WinError 10049] The requested address is not valid in its context
+20_17_06[WinError 10049] The requested address is not valid in its context
+20_24_48[WinError 10049] The requested address is not valid in its context
+20_24_48[WinError 10049] The requested address is not valid in its context
+20_24_51[WinError 10049] The requested address is not valid in its context
+20_24_51[WinError 10049] The requested address is not valid in its context
+20_24_54[WinError 10049] The requested address is not valid in its context
+20_24_54[WinError 10049] The requested address is not valid in its context
+20_27_33[WinError 10049] The requested address is not valid in its context
+20_27_33[WinError 10049] The requested address is not valid in its context
+20_33_02[WinError 10049] The requested address is not valid in its context
+20_33_02[WinError 10049] The requested address is not valid in its context
+20_33_30[WinError 10049] The requested address is not valid in its context
+20_33_30[WinError 10049] The requested address is not valid in its context
+20_33_34[WinError 10049] The requested address is not valid in its context
+20_33_34[WinError 10049] The requested address is not valid in its context
+20_33_39[WinError 10049] The requested address is not valid in its context
+20_33_39[WinError 10049] The requested address is not valid in its context
+20_35_46[WinError 10049] The requested address is not valid in its context
+20_35_46[WinError 10049] The requested address is not valid in its context
+20_35_52[WinError 10049] The requested address is not valid in its context
+20_35_52[WinError 10049] The requested address is not valid in its context
+20_41_12[WinError 10049] The requested address is not valid in its context
+20_41_12[WinError 10049] The requested address is not valid in its context
+20_42_20[WinError 10049] The requested address is not valid in its context
+20_42_20[WinError 10049] The requested address is not valid in its context
+20_42_33[WinError 10049] The requested address is not valid in its context
+20_42_33[WinError 10049] The requested address is not valid in its context

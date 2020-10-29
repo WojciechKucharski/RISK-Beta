@@ -1,0 +1,42 @@
+13_22_46[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+13_22_46[WinError 10049] The requested address is not valid in its context
+13_22_46[WinError 10049] The requested address is not valid in its context
+13_24_30[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+13_24_30[WinError 10049] The requested address is not valid in its context
+13_24_30[WinError 10049] The requested address is not valid in its context
+13_26_28[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+13_26_28[WinError 10049] The requested address is not valid in its context
+13_26_28[WinError 10049] The requested address is not valid in its context
+13_28_25[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+13_28_25[WinError 10049] The requested address is not valid in its context
+13_28_25[WinError 10049] The requested address is not valid in its context
+13_31_18[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+13_31_18[WinError 10049] The requested address is not valid in its context
+13_31_18[WinError 10049] The requested address is not valid in its context
+18_38_48[WinError 10061] No connection could be made because the target machine actively refused it
+18_38_48[WinError 10049] The requested address is not valid in its context
+18_38_48[WinError 10049] The requested address is not valid in its context
+18_42_30[WinError 10061] No connection could be made because the target machine actively refused it
+18_42_30[WinError 10049] The requested address is not valid in its context
+18_42_30[WinError 10049] The requested address is not valid in its context
+18_44_03[WinError 10061] No connection could be made because the target machine actively refused it
+18_44_03[WinError 10049] The requested address is not valid in its context
+18_44_03[WinError 10049] The requested address is not valid in its context
+18_45_27[WinError 10061] No connection could be made because the target machine actively refused it
+18_45_27[WinError 10049] The requested address is not valid in its context
+18_45_27[WinError 10049] The requested address is not valid in its context
+18_46_11[WinError 10061] No connection could be made because the target machine actively refused it
+18_46_11[WinError 10049] The requested address is not valid in its context
+18_46_11[WinError 10049] The requested address is not valid in its context
+19_05_04[WinError 10061] No connection could be made because the target machine actively refused it
+19_05_04[WinError 10049] The requested address is not valid in its context
+19_05_04[WinError 10049] The requested address is not valid in its context
+19_06_15[WinError 10061] No connection could be made because the target machine actively refused it
+19_06_15[WinError 10049] The requested address is not valid in its context
+19_06_15[WinError 10049] The requested address is not valid in its context
+19_08_55[WinError 10061] No connection could be made because the target machine actively refused it
+19_08_55[WinError 10049] The requested address is not valid in its context
+19_08_55[WinError 10049] The requested address is not valid in its context
+19_37_13[WinError 10061] No connection could be made because the target machine actively refused it
+19_37_13[WinError 10049] The requested address is not valid in its context
+19_37_13[WinError 10049] The requested address is not valid in its context

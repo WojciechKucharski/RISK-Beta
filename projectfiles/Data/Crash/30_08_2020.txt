@@ -1,0 +1,217 @@
+16_15_49[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_15_49[WinError 10049] The requested address is not valid in its context
+16_15_49[WinError 10049] The requested address is not valid in its context
+16_16_10[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_16_10[WinError 10049] The requested address is not valid in its context
+16_16_10[WinError 10049] The requested address is not valid in its context
+16_23_35[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_23_35[WinError 10049] The requested address is not valid in its context
+16_23_35[WinError 10049] The requested address is not valid in its context
+16_26_17[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_26_17[WinError 10049] The requested address is not valid in its context
+16_26_17[WinError 10049] The requested address is not valid in its context
+16_26_46[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_26_46[WinError 10049] The requested address is not valid in its context
+16_26_46[WinError 10049] The requested address is not valid in its context
+16_32_40[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_32_40[WinError 10049] The requested address is not valid in its context
+16_32_40[WinError 10049] The requested address is not valid in its context
+16_34_03[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_34_03[WinError 10049] The requested address is not valid in its context
+16_34_03[WinError 10049] The requested address is not valid in its context
+16_34_59[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_34_59[WinError 10049] The requested address is not valid in its context
+16_34_59[WinError 10049] The requested address is not valid in its context
+16_35_14[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_35_14[WinError 10049] The requested address is not valid in its context
+16_35_14[WinError 10049] The requested address is not valid in its context
+16_36_10[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_36_10[WinError 10049] The requested address is not valid in its context
+16_36_10[WinError 10049] The requested address is not valid in its context
+16_36_20[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_36_20[WinError 10049] The requested address is not valid in its context
+16_36_20[WinError 10049] The requested address is not valid in its context
+16_37_17[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_37_17[WinError 10049] The requested address is not valid in its context
+16_37_17[WinError 10049] The requested address is not valid in its context
+16_38_01[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_38_01[WinError 10049] The requested address is not valid in its context
+16_38_01[WinError 10049] The requested address is not valid in its context
+16_38_02[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_38_02[WinError 10049] The requested address is not valid in its context
+16_38_02[WinError 10049] The requested address is not valid in its context
+16_39_23[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_39_23[WinError 10049] The requested address is not valid in its context
+16_39_23[WinError 10049] The requested address is not valid in its context
+16_46_54[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_46_54[WinError 10049] The requested address is not valid in its context
+16_46_54[WinError 10049] The requested address is not valid in its context
+16_47_34[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_47_34[WinError 10049] The requested address is not valid in its context
+16_47_34[WinError 10049] The requested address is not valid in its context
+16_52_34[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_52_34[WinError 10049] The requested address is not valid in its context
+16_52_34[WinError 10049] The requested address is not valid in its context
+16_56_53[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+16_56_53[WinError 10049] The requested address is not valid in its context
+16_56_53[WinError 10049] The requested address is not valid in its context
+18_33_19[WinError 10061] No connection could be made because the target machine actively refused it
+18_33_21[WinError 10061] No connection could be made because the target machine actively refused it
+18_33_21[WinError 10049] The requested address is not valid in its context
+18_33_21[WinError 10049] The requested address is not valid in its context
+18_33_33[WinError 10061] No connection could be made because the target machine actively refused it
+18_33_35[WinError 10061] No connection could be made because the target machine actively refused it
+18_33_35[WinError 10049] The requested address is not valid in its context
+18_33_35[WinError 10049] The requested address is not valid in its context
+18_33_53[WinError 10061] No connection could be made because the target machine actively refused it
+18_33_53[WinError 10049] The requested address is not valid in its context
+18_33_53[WinError 10049] The requested address is not valid in its context
+18_36_50[WinError 10054] An existing connection was forcibly closed by the remote host
+18_38_46[WinError 10054] An existing connection was forcibly closed by the remote host
+18_40_57[WinError 10061] No connection could be made because the target machine actively refused it
+18_40_59[WinError 10061] No connection could be made because the target machine actively refused it
+18_40_59[WinError 10049] The requested address is not valid in its context
+18_40_59[WinError 10049] The requested address is not valid in its context
+18_41_08[WinError 10061] No connection could be made because the target machine actively refused it
+18_41_08[WinError 10049] The requested address is not valid in its context
+18_41_08[WinError 10049] The requested address is not valid in its context
+18_41_23[WinError 10061] No connection could be made because the target machine actively refused it
+18_41_23[WinError 10049] The requested address is not valid in its context
+18_41_23[WinError 10049] The requested address is not valid in its context
+18_41_29[WinError 10061] No connection could be made because the target machine actively refused it
+18_41_29[WinError 10049] The requested address is not valid in its context
+18_41_29[WinError 10049] The requested address is not valid in its context
+18_41_41[WinError 10061] No connection could be made because the target machine actively refused it
+18_41_41[WinError 10049] The requested address is not valid in its context
+18_41_41[WinError 10049] The requested address is not valid in its context
+18_41_50[WinError 10061] No connection could be made because the target machine actively refused it
+18_41_50[WinError 10049] The requested address is not valid in its context
+18_41_50[WinError 10049] The requested address is not valid in its context
+18_41_54[WinError 10061] No connection could be made because the target machine actively refused it
+18_41_54[WinError 10049] The requested address is not valid in its context
+18_41_54[WinError 10049] The requested address is not valid in its context
+18_42_23[WinError 10061] No connection could be made because the target machine actively refused it
+18_42_23[WinError 10049] The requested address is not valid in its context
+18_42_23[WinError 10049] The requested address is not valid in its context
+18_42_30[WinError 10061] No connection could be made because the target machine actively refused it
+18_42_30[WinError 10049] The requested address is not valid in its context
+18_42_30[WinError 10049] The requested address is not valid in its context
+18_50_36[WinError 10061] No connection could be made because the target machine actively refused it
+18_50_36[WinError 10049] The requested address is not valid in its context
+18_50_36[WinError 10049] The requested address is not valid in its context
+18_50_38[WinError 10061] No connection could be made because the target machine actively refused it
+18_50_38[WinError 10049] The requested address is not valid in its context
+18_50_38[WinError 10049] The requested address is not valid in its context
+18_57_49[WinError 10061] No connection could be made because the target machine actively refused it
+18_57_49[WinError 10049] The requested address is not valid in its context
+18_57_49[WinError 10049] The requested address is not valid in its context
+19_00_46[WinError 10061] No connection could be made because the target machine actively refused it
+19_00_46[WinError 10049] The requested address is not valid in its context
+19_00_46[WinError 10049] The requested address is not valid in its context
+19_00_54[WinError 10061] No connection could be made because the target machine actively refused it
+19_01_01[WinError 10049] The requested address is not valid in its context
+19_01_01[WinError 10049] The requested address is not valid in its context
+19_01_53[WinError 10061] No connection could be made because the target machine actively refused it
+19_01_53[WinError 10049] The requested address is not valid in its context
+19_01_53[WinError 10049] The requested address is not valid in its context
+19_01_55[WinError 10061] No connection could be made because the target machine actively refused it
+19_01_55[WinError 10049] The requested address is not valid in its context
+19_01_55[WinError 10049] The requested address is not valid in its context
+19_02_15[WinError 10061] No connection could be made because the target machine actively refused it
+19_02_15[WinError 10049] The requested address is not valid in its context
+19_02_15[WinError 10049] The requested address is not valid in its context
+19_02_22[WinError 10061] No connection could be made because the target machine actively refused it
+19_02_22[WinError 10049] The requested address is not valid in its context
+19_02_22[WinError 10049] The requested address is not valid in its context
+19_02_42[WinError 10061] No connection could be made because the target machine actively refused it
+19_02_42[WinError 10049] The requested address is not valid in its context
+19_02_42[WinError 10049] The requested address is not valid in its context
+19_13_23[WinError 10049] The requested address is not valid in its context
+19_13_23[WinError 10049] The requested address is not valid in its context
+19_20_59[WinError 10049] The requested address is not valid in its context
+19_20_59[WinError 10049] The requested address is not valid in its context
+19_31_37[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+19_31_37[WinError 10049] The requested address is not valid in its context
+19_31_37[WinError 10049] The requested address is not valid in its context
+21_15_59[WinError 10061] No connection could be made because the target machine actively refused it
+21_16_20[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_16_20[WinError 10049] The requested address is not valid in its context
+21_16_20[WinError 10049] The requested address is not valid in its context
+21_16_45[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_16_45[WinError 10049] The requested address is not valid in its context
+21_16_45[WinError 10049] The requested address is not valid in its context
+21_18_40[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_18_40[WinError 10049] The requested address is not valid in its context
+21_18_40[WinError 10049] The requested address is not valid in its context
+21_19_01[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_19_01[WinError 10049] The requested address is not valid in its context
+21_19_01[WinError 10049] The requested address is not valid in its context
+21_19_31[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_19_31[WinError 10049] The requested address is not valid in its context
+21_19_31[WinError 10049] The requested address is not valid in its context
+21_25_02[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_25_02[WinError 10049] The requested address is not valid in its context
+21_25_02[WinError 10049] The requested address is not valid in its context
+21_25_34[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_25_34[WinError 10049] The requested address is not valid in its context
+21_25_34[WinError 10049] The requested address is not valid in its context
+21_26_33[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_26_33[WinError 10049] The requested address is not valid in its context
+21_26_33[WinError 10049] The requested address is not valid in its context
+21_29_06[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_29_06[WinError 10049] The requested address is not valid in its context
+21_29_06[WinError 10049] The requested address is not valid in its context
+21_34_16[WinError 10061] No connection could be made because the target machine actively refused it
+21_34_37[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_34_37[WinError 10049] The requested address is not valid in its context
+21_34_37[WinError 10049] The requested address is not valid in its context
+21_35_15[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_35_15[WinError 10049] The requested address is not valid in its context
+21_35_15[WinError 10049] The requested address is not valid in its context
+21_36_11[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_36_11[WinError 10049] The requested address is not valid in its context
+21_36_11[WinError 10049] The requested address is not valid in its context
+21_37_59[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_37_59[WinError 10049] The requested address is not valid in its context
+21_37_59[WinError 10049] The requested address is not valid in its context
+21_39_13[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_39_13[WinError 10049] The requested address is not valid in its context
+21_39_13[WinError 10049] The requested address is not valid in its context
+21_41_07[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_41_07[WinError 10049] The requested address is not valid in its context
+21_41_07[WinError 10049] The requested address is not valid in its context
+21_43_21[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_43_21[WinError 10049] The requested address is not valid in its context
+21_43_21[WinError 10049] The requested address is not valid in its context
+21_44_20[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_44_20[WinError 10049] The requested address is not valid in its context
+21_44_20[WinError 10049] The requested address is not valid in its context
+21_46_05[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_46_05[WinError 10049] The requested address is not valid in its context
+21_46_05[WinError 10049] The requested address is not valid in its context
+21_46_40font not initialized
+21_46_40font not initialized
+21_47_20[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_47_20[WinError 10049] The requested address is not valid in its context
+21_47_20[WinError 10049] The requested address is not valid in its context
+21_47_26font not initialized
+21_47_26font not initialized
+21_47_44font not initialized
+21_47_44font not initialized
+21_50_16[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_50_16[WinError 10049] The requested address is not valid in its context
+21_50_16[WinError 10049] The requested address is not valid in its context
+21_50_35font not initialized
+21_50_35font not initialized
+21_51_22[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_51_22[WinError 10049] The requested address is not valid in its context
+21_51_22[WinError 10049] The requested address is not valid in its context
+21_51_43[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_51_43[WinError 10049] The requested address is not valid in its context
+21_51_43[WinError 10049] The requested address is not valid in its context
+21_53_07[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_53_07[WinError 10049] The requested address is not valid in its context
+21_53_07[WinError 10049] The requested address is not valid in its context
+21_54_37[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+21_54_37[WinError 10049] The requested address is not valid in its context
+21_54_37[WinError 10049] The requested address is not valid in its context

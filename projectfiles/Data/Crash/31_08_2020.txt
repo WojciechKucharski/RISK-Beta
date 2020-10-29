@@ -1,0 +1,121 @@
+13_46_51[WinError 10061] No connection could be made because the target machine actively refused it
+13_46_53[WinError 10061] No connection could be made because the target machine actively refused it
+13_46_53[WinError 10049] The requested address is not valid in its context
+13_46_53[WinError 10049] The requested address is not valid in its context
+13_47_15[WinError 10061] No connection could be made because the target machine actively refused it
+13_47_15[WinError 10049] The requested address is not valid in its context
+13_47_15[WinError 10049] The requested address is not valid in its context
+13_48_46[WinError 10061] No connection could be made because the target machine actively refused it
+13_48_46[WinError 10049] The requested address is not valid in its context
+13_48_46[WinError 10049] The requested address is not valid in its context
+13_50_16[WinError 10061] No connection could be made because the target machine actively refused it
+13_50_16[WinError 10049] The requested address is not valid in its context
+13_50_16[WinError 10049] The requested address is not valid in its context
+13_50_21[WinError 10061] No connection could be made because the target machine actively refused it
+13_50_21[WinError 10049] The requested address is not valid in its context
+13_50_21[WinError 10049] The requested address is not valid in its context
+13_50_25[WinError 10061] No connection could be made because the target machine actively refused it
+13_50_25[WinError 10049] The requested address is not valid in its context
+13_50_25[WinError 10049] The requested address is not valid in its context
+15_11_04[WinError 10061] No connection could be made because the target machine actively refused it
+15_11_04[WinError 10049] The requested address is not valid in its context
+15_11_04[WinError 10049] The requested address is not valid in its context
+15_11_57[WinError 10061] No connection could be made because the target machine actively refused it
+15_11_57[WinError 10049] The requested address is not valid in its context
+15_11_57[WinError 10049] The requested address is not valid in its context
+15_16_14[WinError 10061] No connection could be made because the target machine actively refused it
+15_16_14[WinError 10049] The requested address is not valid in its context
+15_16_14[WinError 10049] The requested address is not valid in its context
+15_21_11[WinError 10061] No connection could be made because the target machine actively refused it
+15_21_11[WinError 10049] The requested address is not valid in its context
+15_21_11[WinError 10049] The requested address is not valid in its context
+15_23_22[WinError 10061] No connection could be made because the target machine actively refused it
+15_23_22[WinError 10049] The requested address is not valid in its context
+15_23_22[WinError 10049] The requested address is not valid in its context
+15_25_56[WinError 10061] No connection could be made because the target machine actively refused it
+15_25_56[WinError 10049] The requested address is not valid in its context
+15_25_56[WinError 10049] The requested address is not valid in its context
+16_20_01[WinError 10061] No connection could be made because the target machine actively refused it
+16_20_01[WinError 10049] The requested address is not valid in its context
+16_20_01[WinError 10049] The requested address is not valid in its context
+16_20_21[WinError 10061] No connection could be made because the target machine actively refused it
+16_20_21[WinError 10049] The requested address is not valid in its context
+16_20_21[WinError 10049] The requested address is not valid in its context
+16_22_02[WinError 10061] No connection could be made because the target machine actively refused it
+16_22_02[WinError 10049] The requested address is not valid in its context
+16_22_02[WinError 10049] The requested address is not valid in its context
+16_23_16[WinError 10061] No connection could be made because the target machine actively refused it
+16_23_16[WinError 10049] The requested address is not valid in its context
+16_23_16[WinError 10049] The requested address is not valid in its context
+16_53_49[WinError 10061] No connection could be made because the target machine actively refused it
+16_53_49[WinError 10049] The requested address is not valid in its context
+16_53_49[WinError 10049] The requested address is not valid in its context
+16_54_47[WinError 10061] No connection could be made because the target machine actively refused it
+16_54_47[WinError 10049] The requested address is not valid in its context
+16_54_47[WinError 10049] The requested address is not valid in its context
+16_55_32[WinError 10054] An existing connection was forcibly closed by the remote host
+16_55_32[WinError 10054] An existing connection was forcibly closed by the remote host
+16_55_40[WinError 10054] An existing connection was forcibly closed by the remote host
+16_55_40[WinError 10054] An existing connection was forcibly closed by the remote host
+16_55_44[WinError 10054] An existing connection was forcibly closed by the remote host
+16_55_49[WinError 10054] An existing connection was forcibly closed by the remote host
+16_55_55[WinError 10054] An existing connection was forcibly closed by the remote host
+16_55_56[WinError 10054] An existing connection was forcibly closed by the remote host
+16_56_02[WinError 10054] An existing connection was forcibly closed by the remote host
+16_56_03[WinError 10054] An existing connection was forcibly closed by the remote host
+16_56_18[WinError 10054] An existing connection was forcibly closed by the remote host
+16_56_18[WinError 10054] An existing connection was forcibly closed by the remote host
+16_56_25[WinError 10054] An existing connection was forcibly closed by the remote host
+16_56_27[WinError 10054] An existing connection was forcibly closed by the remote host
+16_56_40[WinError 10054] An existing connection was forcibly closed by the remote host
+16_56_41[WinError 10054] An existing connection was forcibly closed by the remote host
+16_56_51[WinError 10054] An existing connection was forcibly closed by the remote host
+16_56_52[WinError 10054] An existing connection was forcibly closed by the remote host
+18_08_08[WinError 10061] No connection could be made because the target machine actively refused it
+18_08_08[WinError 10049] The requested address is not valid in its context
+18_08_08[WinError 10049] The requested address is not valid in its context
+18_08_52[WinError 10054] An existing connection was forcibly closed by the remote host
+18_08_53[WinError 10054] An existing connection was forcibly closed by the remote host
+18_09_11[WinError 10054] An existing connection was forcibly closed by the remote host
+18_09_14[WinError 10054] An existing connection was forcibly closed by the remote host
+18_09_48[WinError 10054] An existing connection was forcibly closed by the remote host
+18_09_50[WinError 10054] An existing connection was forcibly closed by the remote host
+18_09_54[WinError 10054] An existing connection was forcibly closed by the remote host
+18_10_11[WinError 10054] An existing connection was forcibly closed by the remote host
+18_10_22[WinError 10054] An existing connection was forcibly closed by the remote host
+18_10_22[WinError 10054] An existing connection was forcibly closed by the remote host
+18_10_27[WinError 10061] No connection could be made because the target machine actively refused it
+18_10_27[WinError 10049] The requested address is not valid in its context
+18_10_27[WinError 10049] The requested address is not valid in its context
+18_11_11[WinError 10054] An existing connection was forcibly closed by the remote host
+18_11_16[WinError 10054] An existing connection was forcibly closed by the remote host
+18_11_30[WinError 10054] An existing connection was forcibly closed by the remote host
+18_11_34[WinError 10054] An existing connection was forcibly closed by the remote host
+18_12_13[WinError 10061] No connection could be made because the target machine actively refused it
+18_12_13[WinError 10049] The requested address is not valid in its context
+18_12_13[WinError 10049] The requested address is not valid in its context
+18_12_14[WinError 10054] An existing connection was forcibly closed by the remote host
+18_12_15[WinError 10054] An existing connection was forcibly closed by the remote host
+18_12_24[WinError 10061] No connection could be made because the target machine actively refused it
+18_12_24[WinError 10049] The requested address is not valid in its context
+18_12_24[WinError 10049] The requested address is not valid in its context
+18_12_25[WinError 10054] An existing connection was forcibly closed by the remote host
+18_12_28[WinError 10054] An existing connection was forcibly closed by the remote host
+18_12_39[WinError 10061] No connection could be made because the target machine actively refused it
+18_12_39[WinError 10049] The requested address is not valid in its context
+18_12_39[WinError 10049] The requested address is not valid in its context
+18_12_40[WinError 10054] An existing connection was forcibly closed by the remote host
+18_12_42[WinError 10054] An existing connection was forcibly closed by the remote host
+18_13_35[WinError 10061] No connection could be made because the target machine actively refused it
+18_13_35[WinError 10049] The requested address is not valid in its context
+18_13_35[WinError 10049] The requested address is not valid in its context
+18_13_37[WinError 10054] An existing connection was forcibly closed by the remote host
+18_13_42[WinError 10054] An existing connection was forcibly closed by the remote host
+18_22_20[WinError 10061] No connection could be made because the target machine actively refused it
+18_22_20[WinError 10049] The requested address is not valid in its context
+18_22_20[WinError 10049] The requested address is not valid in its context
+18_23_14[WinError 10054] An existing connection was forcibly closed by the remote host
+18_23_14[WinError 10054] An existing connection was forcibly closed by the remote host
+18_25_14[WinError 10061] No connection could be made because the target machine actively refused it
+18_25_14[WinError 10049] The requested address is not valid in its context
+18_25_14[WinError 10049] The requested address is not valid in its context

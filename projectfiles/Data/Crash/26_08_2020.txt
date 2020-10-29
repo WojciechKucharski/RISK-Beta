@@ -1,0 +1,105 @@
+08_58_54[WinError 10061] No connection could be made because the target machine actively refused it
+08_58_56[WinError 10061] No connection could be made because the target machine actively refused it
+08_59_00[WinError 10061] No connection could be made because the target machine actively refused it
+08_59_22[WinError 10054] An existing connection was forcibly closed by the remote host
+08_59_22[WinError 10054] An existing connection was forcibly closed by the remote host
+08_59_23[WinError 10054] An existing connection was forcibly closed by the remote host
+08_59_24[WinError 10054] An existing connection was forcibly closed by the remote host
+08_59_24[WinError 10054] An existing connection was forcibly closed by the remote host
+08_59_25[WinError 10054] An existing connection was forcibly closed by the remote host
+08_59_26[WinError 10054] An existing connection was forcibly closed by the remote host
+08_59_27[WinError 10054] An existing connection was forcibly closed by the remote host
+08_59_29[WinError 10054] An existing connection was forcibly closed by the remote host
+08_59_30[WinError 10054] An existing connection was forcibly closed by the remote host
+08_59_32[WinError 10054] An existing connection was forcibly closed by the remote host
+08_59_33[WinError 10054] An existing connection was forcibly closed by the remote host
+09_00_32Ran out of input
+09_00_38Ran out of input
+09_01_14[WinError 10054] An existing connection was forcibly closed by the remote host
+09_01_14[WinError 10054] An existing connection was forcibly closed by the remote host
+09_01_14'NoneType' object has no attribute 'read'
+09_01_14'NoneType' object has no attribute 'read'
+09_02_44[WinError 10054] An existing connection was forcibly closed by the remote host
+09_02_54[WinError 10054] An existing connection was forcibly closed by the remote host
+09_02_54'NoneType' object has no attribute 'read'
+09_02_54'NoneType' object has no attribute 'read'
+09_04_47Ran out of input
+09_05_55[WinError 10054] An existing connection was forcibly closed by the remote host
+09_05_55[WinError 10054] An existing connection was forcibly closed by the remote host
+09_06_00Ran out of input
+09_06_00Ran out of input
+09_06_24Ran out of input
+09_06_43[WinError 10054] An existing connection was forcibly closed by the remote host
+09_06_43[WinError 10054] An existing connection was forcibly closed by the remote host
+09_06_49[WinError 10054] An existing connection was forcibly closed by the remote host
+09_06_54[WinError 10054] An existing connection was forcibly closed by the remote host
+09_06_54[WinError 10054] An existing connection was forcibly closed by the remote host
+09_06_59[WinError 10054] An existing connection was forcibly closed by the remote host
+09_07_05[WinError 10054] An existing connection was forcibly closed by the remote host
+09_07_10[WinError 10054] An existing connection was forcibly closed by the remote host
+09_07_15[WinError 10054] An existing connection was forcibly closed by the remote host
+09_07_20[WinError 10054] An existing connection was forcibly closed by the remote host
+09_07_26[WinError 10054] An existing connection was forcibly closed by the remote host
+09_07_31[WinError 10054] An existing connection was forcibly closed by the remote host
+09_07_36Ran out of input
+09_07_36Ran out of input
+09_08_42[WinError 10054] An existing connection was forcibly closed by the remote host
+09_08_43[WinError 10054] An existing connection was forcibly closed by the remote host
+09_08_48[WinError 10054] An existing connection was forcibly closed by the remote host
+09_08_53[WinError 10054] An existing connection was forcibly closed by the remote host
+09_08_53[WinError 10054] An existing connection was forcibly closed by the remote host
+09_08_58[WinError 10054] An existing connection was forcibly closed by the remote host
+09_09_03[WinError 10054] An existing connection was forcibly closed by the remote host
+09_09_09[WinError 10054] An existing connection was forcibly closed by the remote host
+09_11_34[WinError 10054] An existing connection was forcibly closed by the remote host
+09_11_34[WinError 10054] An existing connection was forcibly closed by the remote host
+09_11_39[WinError 10054] An existing connection was forcibly closed by the remote host
+09_11_39[WinError 10054] An existing connection was forcibly closed by the remote host
+09_11_45[WinError 10054] An existing connection was forcibly closed by the remote host
+09_12_26[WinError 10054] An existing connection was forcibly closed by the remote host
+09_12_26[WinError 10054] An existing connection was forcibly closed by the remote host
+09_12_31[WinError 10054] An existing connection was forcibly closed by the remote host
+09_12_36[WinError 10054] An existing connection was forcibly closed by the remote host
+09_14_21[WinError 10054] An existing connection was forcibly closed by the remote host
+09_14_21[WinError 10054] An existing connection was forcibly closed by the remote host
+09_14_26[WinError 10054] An existing connection was forcibly closed by the remote host
+09_15_31[WinError 10054] An existing connection was forcibly closed by the remote host
+09_15_31[WinError 10054] An existing connection was forcibly closed by the remote host
+09_15_36Ran out of input
+09_15_36Ran out of input
+09_43_06name 'name' is not defined
+09_51_20'province' object has no attribute 'id'
+09_52_11[WinError 10061] No connection could be made because the target machine actively refused it
+09_52_14[WinError 10061] No connection could be made because the target machine actively refused it
+09_52_17[WinError 10061] No connection could be made because the target machine actively refused it
+09_52_20[WinError 10061] No connection could be made because the target machine actively refused it
+09_52_23[WinError 10061] No connection could be made because the target machine actively refused it
+09_52_26list index out of range
+09_53_09Ran out of input
+09_53_09Ran out of input
+09_53_31list index out of range
+09_53_46[WinError 10054] An existing connection was forcibly closed by the remote host
+09_53_48[WinError 10054] An existing connection was forcibly closed by the remote host
+09_53_55[WinError 10054] An existing connection was forcibly closed by the remote host
+09_54_19list index out of range
+09_55_53[WinError 10061] No connection could be made because the target machine actively refused it
+09_55_55[WinError 10061] No connection could be made because the target machine actively refused it
+09_55_58Ran out of input
+09_56_13[WinError 10054] An existing connection was forcibly closed by the remote host
+09_56_21[WinError 10054] An existing connection was forcibly closed by the remote host
+09_56_26[WinError 10054] An existing connection was forcibly closed by the remote host
+09_56_33[WinError 10054] An existing connection was forcibly closed by the remote host
+09_56_41[WinError 10054] An existing connection was forcibly closed by the remote host
+09_56_45[WinError 10054] An existing connection was forcibly closed by the remote host
+09_56_47[WinError 10054] An existing connection was forcibly closed by the remote host
+09_56_56[WinError 10054] An existing connection was forcibly closed by the remote host
+09_56_58[WinError 10054] An existing connection was forcibly closed by the remote host
+09_57_00[WinError 10054] An existing connection was forcibly closed by the remote host
+09_57_01[WinError 10054] An existing connection was forcibly closed by the remote host
+09_57_03[WinError 10054] An existing connection was forcibly closed by the remote host
+09_57_05[WinError 10054] An existing connection was forcibly closed by the remote host
+09_57_15list index out of range
+09_58_22list index out of range
+09_58_51Ran out of input
+09_58_51Ran out of input
+09_58_59list index out of range

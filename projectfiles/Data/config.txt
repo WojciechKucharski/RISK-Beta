@@ -1,0 +1,10 @@
+ipv4=25.95.17.180
+port=5555
+startunits=31
+start_prov=20
+min_players=1
+barbarians=1
+peaceful=0
+map=map
+turntime=2137
+THEGAMEOFRISKCONFIG

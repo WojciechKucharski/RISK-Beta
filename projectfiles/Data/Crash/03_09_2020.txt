@@ -1,0 +1,7 @@
+12_53_51[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+12_53_51[WinError 10049] The requested address is not valid in its context
+12_53_51[WinError 10049] The requested address is not valid in its context
+12_55_09[WinError 10049] The requested address is not valid in its context
+12_55_09[WinError 10049] The requested address is not valid in its context
+12_55_22[WinError 10049] The requested address is not valid in its context
+12_55_22[WinError 10049] The requested address is not valid in its context
